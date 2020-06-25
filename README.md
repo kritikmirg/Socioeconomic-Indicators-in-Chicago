@@ -29,3 +29,14 @@ https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioe
 * **Hardship Index** (`hardship_index`): Score that incorporates each of the six selected socioeconomic indicators
 
 In this Lab, we'll take a look at the variables in the socioeconomic indicators dataset and do some basic analysis with Python.
+
+### Conclusion
+
+##### Now that you know how to do basic exploratory data analysis using SQL and python visualization tools, you can further explore this dataset to see how the variable `per_capita_income_` is related to `percent_households_below_poverty` and `percent_aged_16_unemployed`. Try to create interesting visualizations!
+
+## Summary
+
+##### In this lab you learned how to store a real world data set from the internet in a database (Db2 on IBM Cloud), gain insights into data using SQL queries. You also visualized a portion of the data in the database to see what story it tells.
+
+Copyright &copy; 2018 [cognitiveclass.ai](cognitiveclass.ai?utm_source=bducopyrightlink&utm_medium=dswb&utm_campaign=bdu). This notebook and its source code are released under the terms of the [MIT License](https://bigdatauniversity.com/mit-license/).
+
